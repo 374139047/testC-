@@ -1,0 +1,59 @@
+D:\我的文档\Visual Studio 2010\Projects\Chat\Chat\obj\x86\Debug\Chat.pdb
+D:\我的文档\Visual Studio 2010\Projects\Chat\Chat\bin\Debug\Chat.exe
+D:\我的文档\Visual Studio 2010\Projects\Chat\Chat\bin\Debug\Chat.pdb
+D:\我的文档\Visual Studio 2010\Projects\Chat\Chat\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2010\Projects\Chat\Chat\obj\x86\Debug\Chat.Form1.resources
+D:\我的文档\Visual Studio 2010\Projects\Chat\Chat\obj\x86\Debug\Chat.Properties.Resources.resources
+D:\我的文档\Visual Studio 2010\Projects\Chat\Chat\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\我的文档\Visual Studio 2010\Projects\Chat\Chat\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\我的文档\Visual Studio 2010\Projects\Chat\Chat\obj\x86\Debug\Chat.exe
+E:\代码审核\4.28\第二个p2p聊天\Chat\Chat\bin\Debug\Chat.exe
+E:\代码审核\4.28\第二个p2p聊天\Chat\Chat\bin\Debug\Chat.pdb
+E:\代码审核\4.28\第二个p2p聊天\Chat\Chat\obj\x86\Debug\Chat.Form1.resources
+E:\代码审核\4.28\第二个p2p聊天\Chat\Chat\obj\x86\Debug\Chat.Properties.Resources.resources
+E:\代码审核\4.28\第二个p2p聊天\Chat\Chat\obj\x86\Debug\Chat.csproj.GenerateResource.Cache
+E:\代码审核\4.28\第二个p2p聊天\Chat\Chat\obj\x86\Debug\Chat.exe
+E:\代码审核\4.28\第二个p2p聊天\Chat\Chat\obj\x86\Debug\Chat.pdb
+E:\代码审核\4.28\第二个p2p聊天\Chat\bin\Debug\Chat.exe
+E:\代码审核\4.28\第二个p2p聊天\Chat\bin\Debug\Chat.pdb
+E:\代码审核\4.28\第二个p2p聊天\Chat\obj\x86\Debug\Chat.Form1.resources
+E:\代码审核\4.28\第二个p2p聊天\Chat\obj\x86\Debug\Chat.Properties.Resources.resources
+E:\代码审核\4.28\第二个p2p聊天\Chat\obj\x86\Debug\Chat.csproj.GenerateResource.Cache
+E:\代码审核\4.28\第二个p2p聊天\Chat\obj\x86\Debug\Chat.exe
+E:\代码审核\4.28\第二个p2p聊天\Chat\obj\x86\Debug\Chat.pdb
+C:\Users\梁\Desktop\XBCP2PChat_b6cafc5e-ca35-41d1-8fe2-b75d58df8792\s1\Chat\bin\Debug\Chat.exe
+C:\Users\梁\Desktop\XBCP2PChat_b6cafc5e-ca35-41d1-8fe2-b75d58df8792\s1\Chat\bin\Debug\Chat.pdb
+C:\Users\梁\Desktop\XBCP2PChat_b6cafc5e-ca35-41d1-8fe2-b75d58df8792\s1\Chat\obj\x86\Debug\Chat.csprojAssemblyReference.cache
+C:\Users\梁\Desktop\XBCP2PChat_b6cafc5e-ca35-41d1-8fe2-b75d58df8792\s1\Chat\obj\x86\Debug\Chat.Form1.resources
+C:\Users\梁\Desktop\XBCP2PChat_b6cafc5e-ca35-41d1-8fe2-b75d58df8792\s1\Chat\obj\x86\Debug\Chat.Properties.Resources.resources
+C:\Users\梁\Desktop\XBCP2PChat_b6cafc5e-ca35-41d1-8fe2-b75d58df8792\s1\Chat\obj\x86\Debug\Chat.csproj.GenerateResource.cache
+C:\Users\梁\Desktop\XBCP2PChat_b6cafc5e-ca35-41d1-8fe2-b75d58df8792\s1\Chat\obj\x86\Debug\Chat.csproj.CoreCompileInputs.cache
+C:\Users\梁\Desktop\XBCP2PChat_b6cafc5e-ca35-41d1-8fe2-b75d58df8792\s1\Chat\obj\x86\Debug\Chat.exe
+C:\Users\梁\Desktop\XBCP2PChat_b6cafc5e-ca35-41d1-8fe2-b75d58df8792\s1\Chat\obj\x86\Debug\Chat.pdb
+C:\Users\梁\Desktop\2\s1\Chat\bin\Debug\Chat.exe
+C:\Users\梁\Desktop\2\s1\Chat\bin\Debug\Chat.pdb
+C:\Users\梁\Desktop\2\s1\Chat\obj\x86\Debug\Chat.csprojAssemblyReference.cache
+C:\Users\梁\Desktop\2\s1\Chat\obj\x86\Debug\Chat.Form1.resources
+C:\Users\梁\Desktop\2\s1\Chat\obj\x86\Debug\Chat.Properties.Resources.resources
+C:\Users\梁\Desktop\2\s1\Chat\obj\x86\Debug\Chat.csproj.GenerateResource.cache
+C:\Users\梁\Desktop\2\s1\Chat\obj\x86\Debug\Chat.csproj.CoreCompileInputs.cache
+C:\Users\梁\Desktop\2\s1\Chat\obj\x86\Debug\Chat.exe
+C:\Users\梁\Desktop\2\s1\Chat\obj\x86\Debug\Chat.pdb
+C:\Users\梁\Desktop\16091020\2\s1\Chat\bin\Debug\Chat.exe
+C:\Users\梁\Desktop\16091020\2\s1\Chat\bin\Debug\Chat.pdb
+C:\Users\梁\Desktop\16091020\2\s1\Chat\obj\x86\Debug\Chat.csprojAssemblyReference.cache
+C:\Users\梁\Desktop\16091020\2\s1\Chat\obj\x86\Debug\Chat.Form1.resources
+C:\Users\梁\Desktop\16091020\2\s1\Chat\obj\x86\Debug\Chat.Properties.Resources.resources
+C:\Users\梁\Desktop\16091020\2\s1\Chat\obj\x86\Debug\Chat.csproj.GenerateResource.cache
+C:\Users\梁\Desktop\16091020\2\s1\Chat\obj\x86\Debug\Chat.csproj.CoreCompileInputs.cache
+C:\Users\梁\Desktop\16091020\2\s1\Chat\obj\x86\Debug\Chat.exe
+C:\Users\梁\Desktop\16091020\2\s1\Chat\obj\x86\Debug\Chat.pdb
+C:\Users\梁\Desktop\16091020\s1\Chat\bin\Debug\Chat.exe
+C:\Users\梁\Desktop\16091020\s1\Chat\bin\Debug\Chat.pdb
+C:\Users\梁\Desktop\16091020\s1\Chat\obj\x86\Debug\Chat.Form1.resources
+C:\Users\梁\Desktop\16091020\s1\Chat\obj\x86\Debug\Chat.Properties.Resources.resources
+C:\Users\梁\Desktop\16091020\s1\Chat\obj\x86\Debug\Chat.csproj.GenerateResource.cache
+C:\Users\梁\Desktop\16091020\s1\Chat\obj\x86\Debug\Chat.csproj.CoreCompileInputs.cache
+C:\Users\梁\Desktop\16091020\s1\Chat\obj\x86\Debug\Chat.exe
+C:\Users\梁\Desktop\16091020\s1\Chat\obj\x86\Debug\Chat.pdb
+C:\Users\梁\Desktop\16091020\s1\Chat\obj\x86\Debug\Chat.csprojAssemblyReference.cache
