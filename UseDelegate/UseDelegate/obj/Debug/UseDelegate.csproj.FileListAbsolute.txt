@@ -1,0 +1,17 @@
+D:\jxl\MyBook\ASP.NET程序设计教程\配套光盘\附录：面向对象的编程语言\SourceCode\UseDelegate\UseDelegate\obj\Debug\UseDelegate.exe
+D:\jxl\MyBook\ASP.NET程序设计教程\配套光盘\附录：面向对象的编程语言\SourceCode\UseDelegate\UseDelegate\obj\Debug\UseDelegate.pdb
+D:\jxl\MyBook\ASP.NET程序设计教程\配套光盘\附录：面向对象的编程语言\SourceCode\UseDelegate\UseDelegate\bin\Debug\UseDelegate.exe
+D:\jxl\MyBook\ASP.NET程序设计教程\配套光盘\附录：面向对象的编程语言\SourceCode\UseDelegate\UseDelegate\bin\Debug\UseDelegate.pdb
+D:\jxl\MyBook\ASP.NET程序设计教程\配套光盘\附录：面向对象的编程语言\SourceCode\UseDelegate\UseDelegate\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\37413\Desktop\K\C#\C#学习\C#编程语言与面向对象基础教程\SourceCode\UseDelegate\UseDelegate\bin\Debug\UseDelegate.exe
+C:\Users\37413\Desktop\K\C#\C#学习\C#编程语言与面向对象基础教程\SourceCode\UseDelegate\UseDelegate\bin\Debug\UseDelegate.pdb
+C:\Users\37413\Desktop\K\C#\C#学习\C#编程语言与面向对象基础教程\SourceCode\UseDelegate\UseDelegate\obj\Debug\UseDelegate.csproj.AssemblyReference.cache
+C:\Users\37413\Desktop\K\C#\C#学习\C#编程语言与面向对象基础教程\SourceCode\UseDelegate\UseDelegate\obj\Debug\UseDelegate.csproj.CoreCompileInputs.cache
+C:\Users\37413\Desktop\K\C#\C#学习\C#编程语言与面向对象基础教程\SourceCode\UseDelegate\UseDelegate\obj\Debug\UseDelegate.exe
+C:\Users\37413\Desktop\K\C#\C#学习\C#编程语言与面向对象基础教程\SourceCode\UseDelegate\UseDelegate\obj\Debug\UseDelegate.pdb
+C:\Users\37413\Desktop\IN\Local\testC#\UseDelegate\UseDelegate\bin\Debug\UseDelegate.exe
+C:\Users\37413\Desktop\IN\Local\testC#\UseDelegate\UseDelegate\bin\Debug\UseDelegate.pdb
+C:\Users\37413\Desktop\IN\Local\testC#\UseDelegate\UseDelegate\obj\Debug\UseDelegate.csproj.AssemblyReference.cache
+C:\Users\37413\Desktop\IN\Local\testC#\UseDelegate\UseDelegate\obj\Debug\UseDelegate.csproj.CoreCompileInputs.cache
+C:\Users\37413\Desktop\IN\Local\testC#\UseDelegate\UseDelegate\obj\Debug\UseDelegate.exe
+C:\Users\37413\Desktop\IN\Local\testC#\UseDelegate\UseDelegate\obj\Debug\UseDelegate.pdb

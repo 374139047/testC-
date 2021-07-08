@@ -1,0 +1,11 @@
+D:\jxl\MyBook\ASP.NET程序设计教程\配套光盘\附录：面向对象的编程语言\SourceCode\MulticastDelegateLinkExample\MulticastDelegateLinkExample\obj\Debug\MulticastDelegateLinkExample.exe
+D:\jxl\MyBook\ASP.NET程序设计教程\配套光盘\附录：面向对象的编程语言\SourceCode\MulticastDelegateLinkExample\MulticastDelegateLinkExample\obj\Debug\MulticastDelegateLinkExample.pdb
+D:\jxl\MyBook\ASP.NET程序设计教程\配套光盘\附录：面向对象的编程语言\SourceCode\MulticastDelegateLinkExample\MulticastDelegateLinkExample\bin\Debug\MulticastDelegateLinkExample.exe
+D:\jxl\MyBook\ASP.NET程序设计教程\配套光盘\附录：面向对象的编程语言\SourceCode\MulticastDelegateLinkExample\MulticastDelegateLinkExample\bin\Debug\MulticastDelegateLinkExample.pdb
+D:\jxl\MyBook\ASP.NET程序设计教程\配套光盘\附录：面向对象的编程语言\SourceCode\MulticastDelegateLinkExample\MulticastDelegateLinkExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\37413\Desktop\IN\Local\testC#\MulticastDelegateLinkExample\MulticastDelegateLinkExample\bin\Debug\MulticastDelegateLinkExample.exe
+C:\Users\37413\Desktop\IN\Local\testC#\MulticastDelegateLinkExample\MulticastDelegateLinkExample\bin\Debug\MulticastDelegateLinkExample.pdb
+C:\Users\37413\Desktop\IN\Local\testC#\MulticastDelegateLinkExample\MulticastDelegateLinkExample\obj\Debug\MulticastDelegateLinkExample.csproj.AssemblyReference.cache
+C:\Users\37413\Desktop\IN\Local\testC#\MulticastDelegateLinkExample\MulticastDelegateLinkExample\obj\Debug\MulticastDelegateLinkExample.csproj.CoreCompileInputs.cache
+C:\Users\37413\Desktop\IN\Local\testC#\MulticastDelegateLinkExample\MulticastDelegateLinkExample\obj\Debug\MulticastDelegateLinkExample.exe
+C:\Users\37413\Desktop\IN\Local\testC#\MulticastDelegateLinkExample\MulticastDelegateLinkExample\obj\Debug\MulticastDelegateLinkExample.pdb

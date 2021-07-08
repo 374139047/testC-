@@ -1,0 +1,2 @@
+C:\jxl\MyWork\jxlbook\Writing\配套光盘\第13章\13.1\MulticastDelegateLinkExample\MulticastDelegateLinkExample\obj\Debug\MulticastDelegateLinkExample.exe
+C:\jxl\MyWork\jxlbook\Writing\配套光盘\第13章\13.1\MulticastDelegateLinkExample\MulticastDelegateLinkExample\obj\Debug\MulticastDelegateLinkExample.pdb

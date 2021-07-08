@@ -1,0 +1,5 @@
+bin\Debug\MulticastDelegateLinkExample.exe
+bin\Debug\MulticastDelegateLinkExample.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MulticastDelegateLinkExample.exe
+obj\Debug\MulticastDelegateLinkExample.pdb
