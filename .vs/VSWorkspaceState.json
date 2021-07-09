@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Exa1-HelloWorld",
+    "\\Exa1-HelloWorld\\HelloWorld",
+    "\\MulticastDelegateLinkExample\\MulticastDelegateLinkExample",
+    "\\MulticastDelegateLinkExample\\MulticastDelegateLinkExample\\Properties"
   ],
+  "SelectedNode": "\\Exa1-HelloWorld\\HelloWorld\\HelloWorld.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,16 @@
+C:\Users\37413\Desktop\K\C#\C#学习\《C#课程设计案例精编》-王振江-源代码-3438\Exa1-HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\37413\Desktop\K\C#\C#学习\《C#课程设计案例精编》-王振江-源代码-3438\Exa1-HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\37413\Desktop\K\C#\C#学习\《C#课程设计案例精编》-王振江-源代码-3438\Exa1-HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\37413\Desktop\K\C#\C#学习\《C#课程设计案例精编》-王振江-源代码-3438\Exa1-HelloWorld\HelloWorld\obj\Debug\HelloWorld.HelloWorld.resources
+C:\Users\37413\Desktop\K\C#\C#学习\《C#课程设计案例精编》-王振江-源代码-3438\Exa1-HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+C:\Users\37413\Desktop\K\C#\C#学习\《C#课程设计案例精编》-王振江-源代码-3438\Exa1-HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\37413\Desktop\K\C#\C#学习\《C#课程设计案例精编》-王振江-源代码-3438\Exa1-HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\37413\Desktop\K\C#\C#学习\《C#课程设计案例精编》-王振江-源代码-3438\Exa1-HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\37413\Desktop\IN\Local\testC#\Exa1-HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\37413\Desktop\IN\Local\testC#\Exa1-HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\37413\Desktop\IN\Local\testC#\Exa1-HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\37413\Desktop\IN\Local\testC#\Exa1-HelloWorld\HelloWorld\obj\Debug\HelloWorld.HelloWorld.resources
+C:\Users\37413\Desktop\IN\Local\testC#\Exa1-HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+C:\Users\37413\Desktop\IN\Local\testC#\Exa1-HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\37413\Desktop\IN\Local\testC#\Exa1-HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\37413\Desktop\IN\Local\testC#\Exa1-HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
