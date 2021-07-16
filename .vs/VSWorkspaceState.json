@@ -1,11 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Exa1-HelloWorld",
-    "\\Exa1-HelloWorld\\HelloWorld",
-    "\\MulticastDelegateLinkExample\\MulticastDelegateLinkExample",
-    "\\MulticastDelegateLinkExample\\MulticastDelegateLinkExample\\Properties"
+    "\\MyClockApp"
   ],
-  "SelectedNode": "\\Exa1-HelloWorld\\HelloWorld\\HelloWorld.cs",
+  "SelectedNode": "\\MyClockApp\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }

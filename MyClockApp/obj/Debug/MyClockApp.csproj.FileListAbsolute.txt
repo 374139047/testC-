@@ -1,0 +1,8 @@
+C:\Users\37413\Desktop\IN\Local\testC#\MyClockApp\bin\Debug\MyClockApp.exe
+C:\Users\37413\Desktop\IN\Local\testC#\MyClockApp\bin\Debug\MyClockApp.pdb
+C:\Users\37413\Desktop\IN\Local\testC#\MyClockApp\obj\Debug\MyClockApp.csproj.AssemblyReference.cache
+C:\Users\37413\Desktop\IN\Local\testC#\MyClockApp\obj\Debug\MyClockApp.Form1.resources
+C:\Users\37413\Desktop\IN\Local\testC#\MyClockApp\obj\Debug\MyClockApp.csproj.GenerateResource.cache
+C:\Users\37413\Desktop\IN\Local\testC#\MyClockApp\obj\Debug\MyClockApp.csproj.CoreCompileInputs.cache
+C:\Users\37413\Desktop\IN\Local\testC#\MyClockApp\obj\Debug\MyClockApp.exe
+C:\Users\37413\Desktop\IN\Local\testC#\MyClockApp\obj\Debug\MyClockApp.pdb
