@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditorApp", "EditorApp.csproj", "{8A19A23F-BE88-4586-B8A2-0C701F692FB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{8A19A23F-BE88-4586-B8A2-0C701F692FB9}.Debug.ActiveCfg = Debug|.NET
+		{8A19A23F-BE88-4586-B8A2-0C701F692FB9}.Debug.Build.0 = Debug|.NET
+		{8A19A23F-BE88-4586-B8A2-0C701F692FB9}.Release.ActiveCfg = Release|.NET
+		{8A19A23F-BE88-4586-B8A2-0C701F692FB9}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
