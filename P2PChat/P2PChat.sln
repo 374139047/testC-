@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2PChat", "P2PChat.csproj", "{43D89851-75F5-44AC-BE40-CDFF61A16440}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43D89851-75F5-44AC-BE40-CDFF61A16440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D89851-75F5-44AC-BE40-CDFF61A16440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D89851-75F5-44AC-BE40-CDFF61A16440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D89851-75F5-44AC-BE40-CDFF61A16440}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C72A5487-9068-4561-A7FF-29333B5B66C1}
+	EndGlobalSection
+EndGlobal
