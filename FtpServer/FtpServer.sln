@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FtpServer", "FtpServer.csproj", "{DFC65243-87A2-4324-967A-94D34A138D2D}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{DFC65243-87A2-4324-967A-94D34A138D2D}.Debug.ActiveCfg = Debug|.NET
+		{DFC65243-87A2-4324-967A-94D34A138D2D}.Debug.Build.0 = Debug|.NET
+		{DFC65243-87A2-4324-967A-94D34A138D2D}.Release.ActiveCfg = Release|.NET
+		{DFC65243-87A2-4324-967A-94D34A138D2D}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
